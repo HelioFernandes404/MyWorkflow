@@ -7,7 +7,11 @@
 [ x ] - When using the .NET Command Line Interface (.NET CLI)
 [ x ] - Git
 [ x ] - Docs ?
- 
+[ ]  - padroes-de-commits
+
+[ ] - IA cli?
+
+
 # 2. passar o projeto pra padrões de design / Factory Method ?
 
 

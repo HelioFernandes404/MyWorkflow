@@ -14,6 +14,8 @@ namespace MyWorkflow
             }
 
             string command = args[0].ToLower();
+
+            //Cliente code
             ICommand commandHandler = CommandFactory.CreateCommand(command);
 
             if (commandHandler == null)
